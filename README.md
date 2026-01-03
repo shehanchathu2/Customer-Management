@@ -1,14 +1,14 @@
 ## Customer Management System
 
-### Backend
+# Backend
 - Java 21, Spring Boot, MariaDB
 - Run: mvn spring-boot:run
 
-### Frontend
+# Frontend
 - React + Axios
-- Run: npm install && npm start
+- Run: npm install && npm run dev
 
-### Features
+## Features
 - Create / Update / View customers
 - Bulk upload via Excel (memory efficient)
 - Master tables for City & Country
